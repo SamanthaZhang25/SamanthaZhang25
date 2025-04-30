@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SamanthaZhang25)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Samantha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamanthaZhang25)](https://github.com/SamanthaZhang25/github-readme-activity-graph)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SamanthaZhang25.SamanthaZhang25)
