@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 Hi, I’m Samantha Zhang
 
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently Looking for Jobs in London
-- 💞️ I’m looking to collaborate on Machine Learning Projects & Data Processing
+- 👀 Data Science，Machine Learning, Deep Learning, Data Visualization 
+- 🌱 Currently Looking for Data Science/ Data Analysis Internship/RA Position
+- 💞️ Linkedin: https://www.linkedin.com/in/samantha-zhang-8bb0b32ba/
 - 📫 Feel free to contact me.
 
 ---
