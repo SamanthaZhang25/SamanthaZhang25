@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 Data Science，Machine Learning, Deep Learning, Data Visualization 
 - 🌱 Currently Looking for Data Science/ Data Analysis Internship/RA Position
-- 💞️ Linkedin: https://www.linkedin.com/in/samantha-zhang-8bb0b32ba/
+- 💞️ Linkedin: [https://www.linkedin.com/in/samantha-zhang-8bb0b32ba/](https://www.linkedin.com/in/yingxuan-zhang-8bb0b32ba/)
 - 📫 Feel free to contact me.
 
 ---
